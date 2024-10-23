@@ -1,0 +1,18 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: "[BugFix]"
+labels: ''
+assignees: ''
+
+---
+
+### Bug 설명
+버그에 대해 간결하게 설명해 주세요.
+---
+### 스크린샷
+필요하다면 버그를 재현한 스크린샷을 첨부해주세요.
+---
+### 해결방법
+해결방법을 알고 있다면 작성해주세요.
+모른다면 팀원들에게 도움을 요청해주세요.
