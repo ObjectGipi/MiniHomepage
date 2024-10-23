@@ -12,4 +12,7 @@
 - navigation.md 파일 추가
 - 로그인/로그아웃 추가
 
+## 구매 추가
+- purchase.md 추가
+
 > 인용문
